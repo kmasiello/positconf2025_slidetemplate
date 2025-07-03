@@ -1,0 +1,179 @@
+---
+title: "Slide Template Sampler"
+subtitle: "🔗 [katie.quarto.pub/positconf2025](https://katie.quarto.pub/positconf2025)"
+author: "Katie Masiello"
+title-slide-attributes: 
+  data-background-color: black
+  data-background-image:  _extensions/positconfslides/assets/backgrounds/title-slide-dark.svg
+  data-background-size: contain
+format:
+  positconfslides-revealjs: 
+    chalkboard: true
+    slide-number: c/t
+    code-copy: true
+    center-title-slide: false
+    code-link: true
+    code-overflow: wrap
+    highlight-style: a11y
+    width: "1600"
+    height: "900"
+    filters:
+      - positconfslides
+---
+
+
+## Slide options
+
+![](PST-Conf2025-Quarto-Slides-Jul2025.png)
+
+
+## {.title-slide-dark}
+
+<h1>Here's a great presentation!</h1>
+<h2>with a subtitle</h2>
+
+this slide is `{.title-slide-dark}`
+
+## {.title-slide-teal}
+
+<h1>I hope you like it!</h1>
+<h2>with a subtitle</h2>
+
+this slide is `{.title-slide-teal}`
+
+## {.title-slide-light}
+
+<h1>and welcome to conf!</h1>
+<h2>with a subtitle</h2>
+
+this slide is `{.title-slide-light}`
+
+## Sidebar  {.sidebar-dark-w-teal}
+
+### this slide is `{.sidebar-dark-w-teal}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## Sidebar  {.sidebar-teal-w-white}
+
+### this slide is `{.sidebar-teal-w-white}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## Sidebar {.sidebar-dark-w-white}
+
+### this slide is `{.sidebar-dark-w-white}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## Regular content page {.content-light}
+
+### this slide is `{.content-light}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## Regular content page {.content-dark}
+
+### this slide is `{.content-dark}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## Regular content page {.content-teal}
+
+### this slide is `{.content-teal}`
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+
+
+## No format
+
+-   Bullet 1
+-   Bullet 2
+-   Bullet 3, [with a link](https://posit.co)
+
+Lorem ipsum dolor sit `amet`, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+```r
+plot(cars)
+```
+
+## {.skyline}
+this slide is `{.skyline}`
+
+
+::: large
+this would be a nice title slide, intermission slide, or closing slide!
+:::
+
+
+## {.cubes}
+this slide is `{.cubes}`
+
+<br><br><br><br><br><br>
+
+::: largest
+Thank you.
+:::
